@@ -16,6 +16,6 @@ public class Generate {
     @Test
     void tbOrderDetail(){
         MysqlGenerator mysqlGenerator = new MysqlGenerator();
-
+        mysqlGenerator.generator("tb_order_detail");
     }
 }

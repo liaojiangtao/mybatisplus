@@ -156,7 +156,7 @@ public class SuperGenerator {
                 .setDriverName("com.mysql.jdbc.Driver")
                 .setUsername("root")
                 .setPassword("123456")
-                .setUrl("jdbc:mysql://47.98.111.83:3306//sell?useUnicode=true&characterEncoding=utf8");
+                .setUrl("jdbc:mysql://47.98.111.83:3306/sell?useUnicode=true&characterEncoding=utf8");
     }
 
     /**
