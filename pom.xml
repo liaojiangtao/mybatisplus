@@ -24,7 +24,7 @@
         <durid.version>1.1.10</durid.version>
         <velocity.version>1.1.10</velocity.version>
         <velocity.version>2.1</velocity.version>
-        <beetl.version>3.0.13.RELEASE</beetl.version>
+        <beetl.version>3.15.13.RELEASE</beetl.version>
     </properties>
 
     <dependencies>
